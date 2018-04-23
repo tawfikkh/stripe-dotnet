@@ -30,7 +30,7 @@ From within Visual Studio:
 
 You can configure the Stripe.net package to use your secret API key in one of two ways:
 
-a) In your application initialization, set your API key (only once once during startup):
+a) In your application initialization, set your API key (only once during startup):
 
 ```csharp
 StripeConfiguration.SetApiKey("[your api key here]");
